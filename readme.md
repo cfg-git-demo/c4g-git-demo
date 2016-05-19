@@ -3,4 +3,4 @@ Welcome...
 
 We'll put info here later.
  
-<img align="right" src="image.png">
+<img align="left" src="image.png">
